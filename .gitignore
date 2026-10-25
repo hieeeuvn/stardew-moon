@@ -1,0 +1,14 @@
+# ROM và build artifact — không bao giờ commit
+*.gba
+*.zip
+baserom.gba
+fomt.elf
+build/
+
+# toolchain
+.toolchain/
+.build/
+
+# python
+__pycache__/
+*.pyc
